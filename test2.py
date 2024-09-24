@@ -18,7 +18,7 @@ import urllib.request
 st.set_page_config(page_title = "Dater", page_icon = "🌌️", layout = "wide", initial_sidebar_state = "expanded")
 st.title("Dater 👁️‍🗨️️")
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "API KEY HERE"
 
 class Dater:
     
